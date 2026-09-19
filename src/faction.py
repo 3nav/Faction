@@ -29,7 +29,7 @@ OPTIONS = """
     ║   ▸ 3) Words combination                             ║
     ║   ▸ 4) Random letters                                ║
     ║   ▸ 5) Letters & Numbers combination                 ║
-    ║   ▸ 6) 4 Numbers					   ║
+    ║   ▸ 6) 4 Numbers					                   ║
     ╚══════════════════════════════════════════════════════╝
 """
 
