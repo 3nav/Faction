@@ -1,11 +1,11 @@
 > [!WARNING]
-> You can get **rate limited** for sending too much requests.
-> If you do get rate limited, make sure you retry after 5 minutes.
+> ⚠ You can get rate-limited.
+> If you do, retry after 5-10 minutes.
 
-# Faction - A python name sniper
+# Faction - Username Sniper
 Faction currently supports Roblox, but I'm planning to add a support for Discord soon.
 # Is it safe?
-Yes, it is 100% safe, you can check the source code.
+Yes, it is 100% safe. The whole code is open-source and you can use it for your projects.
 # Was this vibe-coded?
 Yes, but only for bug fixes, everything else is made by me.
 # It shows an error when I try to run it.
