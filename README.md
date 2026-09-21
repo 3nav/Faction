@@ -10,4 +10,4 @@ Yes, it is 100% safe. The whole code is open-source and you can use it for your 
 Yes, but only for bug fixes, everything else is made by me.
 # It shows an error when I try to run it.
 If you find any errors when opening the file, then contact me.\
-Discord: [@**65656565656565656**](https://discord.com/users/997100947371217008)
+Discord: [@**fidelitycollision**](https://discord.com/users/997100947371217008)
